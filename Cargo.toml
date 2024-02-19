@@ -12,6 +12,12 @@ gstreamer-video = "0.21.2"
 anyhow = "1.0.79"
 glib = "0.18.5"
 crossterm = "0.27.0"
+gstreamer-pbutils = "0.21.3"
+gstreamer-audio = "0.21.3"
+byte-slice-cast = "1.2.2"
+image = "0.24.8"
+epaint = "0.26.0"
+gst-plugin = "0.3.2"
 
 [dependencies.tui]
 version = "0.19.0"
